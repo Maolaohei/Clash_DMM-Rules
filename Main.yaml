@@ -1,0 +1,17 @@
+  #DMM规则
+  - 'DOMAIN-SUFFIX,dmm.com,DMM规则'
+  - 'DOMAIN-SUFFIX,dmm.co.jp,DMM规则'
+  - 'DOMAIN-SUFFIX,dmmgames.com,DMM规则'
+  - 'DOMAIN-SUFFIX,dmm.hk,DMM规则'
+  - 'DOMAIN-SUFFIX,dmm-extension.com,DMM规则'
+  - 'DOMAIN-SUFFIX, *.dmm.com,DMM规则'
+  
+  # DMM赛马娘规则
+  - 'DOMAIN,api-umamusume.cygames.jp,DMM规则'
+  - 'DOMAIN-SUFFIX,cygames.jp,DMM规则'
+  - 'DOMAIN-SUFFIX,umamusume.jp,DMM规则'
+  - 'DOMAIN,prd-storage-app-umamusume.akamaized.net,DMM规则'
+  - 'DOMAIN,prd-storage-game-umamusume.akamaized.net,DMM规则'
+  - 'DOMAIN,prd-storage-umamusume.akamaized.net,DMM规则'
+  - 'DOMAIN-SUFFIX,*.cygames.jp,DMM规则'
+  - 'DOMAIN-KEYWORD,umamusume,DMM规则'
